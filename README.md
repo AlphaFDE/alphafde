@@ -2,7 +2,7 @@
 
 <!-- Luxury Editorial Header Banner (Clickable -> WorkShow Portfolio: blog.alphaintelligence.ltd) -->
 <a href="https://blog.alphaintelligence.ltd/" target="_blank">
-  <img src="https://raw.githubusercontent.com/AlphaFDE/Alphaxiaoteng/main/assets/header.svg" width="100%" alt="ALPHA FDE Banner"/>
+  <img src="https://raw.githubusercontent.com/AlphaFDE/alphafde/main/assets/header.svg" width="100%" alt="ALPHA FDE Banner"/>
 </a>
 
 <!-- High-Aesthetic Cinzel Monochrome Typing Marquee -->
@@ -26,8 +26,41 @@
 
 ---
 
-**企业 AI 现场工程交付（FDE）· 官网 [alphafde.cn](https://alphafde.cn)**
+### Projects & Open Source
 
-工程师驻场写代码，交付完整源码，数据留在企业本地。
+<div align="center">
 
-📖 完整业务介绍与案例：[**alphaFDE-CN**](https://github.com/AlphaFDE/alphaFDE-CN) · 🧩 Agent 接入规范：[SKILL.md](https://alphafde.cn/skills/SKILL.md) · 📫 驻场咨询：[预约诊断](https://alphafde.cn/#contact)
+| Project | Role / Status | Why & Focus (背景与解决问题) | Portal |
+| :--- | :--- | :--- | :---: |
+| **AlphaFDE** | `主要项目`<br>`Flagship` | 解决企业大模型落地脱离业务场景的痛点，通过 FDE 驻场交付与 ANC 框架打通商业化智能体闭环。 | [![Official Site](https://img.shields.io/badge/Website-alphafde.cn-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://alphafde.cn) |
+| **OpenChatCut** | `参与开源项目`<br>`Contributor` | 解决传统视频剪辑时间线繁琐问题，参与核心开发探索 LLM + MCP + Remotion 结合，实现“对话即剪辑”的 AI 视频工作流。 | [![GitHub Stars](https://img.shields.io/badge/Open_Source-0xsline%2FOpenChatCut-181717?style=flat-square&logo=github)](https://github.com/0xsline/OpenChatCut) |
+| **n8n & AI Workflows** | `生产级 Agent`<br>`Automation` | 消除新媒体运营与电商业务中高频机械重复劳动，搭建全自动数据监控、爆款拆解与多模态自动化闭环。 | [![Repo](https://img.shields.io/badge/Workflows-n8n__AI-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://github.com/AlphaFDE) |
+
+</div>
+
+---
+
+### Tech Stack & Architecture
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%203.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLM_Wiki-4B32C3?style=flat-square&logo=gitbook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dify.AI-000000?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP%20Protocol-58A6FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Promptfoo-6366F1?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ComfyUI-FF4081?style=flat-square&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remotion-0B84FF?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</p>
+
+</div>
